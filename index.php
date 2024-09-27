@@ -31,7 +31,7 @@ $date_content =  include_template('date.php');
 $footer_content = include_template('footer.php');
 
 
-// Теперь вы можете выводить $header_content в вашем index.php
+//  вывод шаблонов
 echo $header_content;
 echo $pagination_content;
 echo $date_content;
